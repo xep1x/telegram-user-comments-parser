@@ -12,7 +12,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your_username/telegram-user-comments-parser.git
+   git clone https://github.com/xep1x/telegram-user-comments-parser.git
    cd telegram-user-comments-parser
    ```
 2. Установите зависимости:
